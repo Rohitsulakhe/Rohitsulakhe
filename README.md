@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohitsulakhe
 - 👀 I’m interested in ... Coding, system administration,java,python
 - 🌱 I’m currently learning ...MCA
-- 📫 How to reach me ... 9594294618/rohit.1524sulakhe@gmail.com
+- 📫 How to reach me ... 9594294618/rohitsulakhe1504@gmail.com
 
 <!---
 Rohitsulakhe/Rohitsulakhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
